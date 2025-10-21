@@ -1,5 +1,5 @@
 # Nova_Bank Credit Risk Analysis
-## Project background
+## Project Background
  In this challenge, you’ll act as a credit risk analyst at Nova Bank, a financial institution that provides personal, medical, education, and business loans across the USA, UK, and Canada. Nova Bank wants to make lending fair and accessible while also protecting itself from unnecessary risk.
 The main challenge is finding the right balance. If Nova Bank approves too many high-risk loans, it loses money. If it becomes too strict, it misses out on potential customers. By looking at the data, your job is to help the bank understand who tends to default and why, and how lending decisions can be made more reliable
 
